@@ -1,7 +1,11 @@
 # repository.dirtyg
 
-A collection of Adult Add-ons made for Kodi Matrix
+Download the zip direcly: 
+https://mrgsi.github.io/repository.dirtyg-1.0.0.zip
 
-File Manager link: https://mrgsi.github.io
-Install zip file: repository.dirtyg-1.0.0.zip
- 
+Or enter URL into your Kodi File Manager:
+https://mrgsi.github.io/
+
+Dirty-G contains various XXX Adult Add-ons for Kodi
+
+G-Man
