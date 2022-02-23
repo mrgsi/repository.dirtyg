@@ -24,6 +24,11 @@
 	    <datadir zip="true">https://github.com/Vashiel/repository.adulthideout/raw/master/zips</datadir>
     </dir>
     <dir>
+        <info compressed="false">https://fr33p0rt-kodi.gitlab.io/repo/18/addons.xml</info>
+        <checksum>https://fr33p0rt-kodi.gitlab.io/repo/18/addons.xml.md5</checksum>
+        <datadir zip="true">https://fr33p0rt-kodi.gitlab.io/repo/18</datadir>
+    </dir>
+    <dir>
         <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
